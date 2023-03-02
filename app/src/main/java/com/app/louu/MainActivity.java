@@ -25,4 +25,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(Start);
         Log.d("nova fase", "nova fase");
     }
+
+//    public void InicioFase1 (View v){
+//        //Cria uma nova intent (Intenção!!!) para iniciar a activity (Tela) Fase1_Activity
+//        Intent InitFase1 = new Intent(this, jogo_1.class);
+//        startActivity(InitFase1);
+//        Log.d("nova fase", "nova fase");
+//    }
 }
