@@ -12,6 +12,9 @@
         android:theme="@style/Theme.LouU"
         tools:targetApi="31">
         <activity
+            android:name=".Fase1_Activity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
