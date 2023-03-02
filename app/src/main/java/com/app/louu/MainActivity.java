@@ -13,8 +13,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Fase1 fase1 = new Fase1();
-        fase1.jogo();
+
+        //Testes de log para debugar
+        //Fase1 fase1 = new Fase1();
+        //fase1.jogo();
     }
 
     public void StartGame (View v){
