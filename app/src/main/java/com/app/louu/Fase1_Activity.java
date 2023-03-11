@@ -1,8 +1,8 @@
 package com.app.louu;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class Fase1_Activity extends AppCompatActivity {
 
